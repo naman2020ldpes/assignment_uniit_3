@@ -1,3 +1,5 @@
+## name:Naman    -: SRN:pes1ug23ca065 
+
 # Social Media App
 
 Welcome to **Social Media App**! This is a modern and feature-rich social media platform that allows users to connect, share content, and interact with others in a dynamic and engaging way.
